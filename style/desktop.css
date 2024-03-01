@@ -1,7 +1,11 @@
 @charset "UTF-8";
 
+body {
+    background-image: linear-gradient(to bottom,#17325c,#50C4ED );
+    height: 100vh;
+}
 #login{
-    width: 75vw;
+    width: 700px;
 }
 section div#img{
     float: left;
